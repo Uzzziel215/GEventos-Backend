@@ -1,0 +1,3 @@
+.env
+    node_modules/
+    # Add other files/folders you don't want to track
